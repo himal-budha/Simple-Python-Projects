@@ -3,7 +3,7 @@ import random
 
 items=["rock","paper","scissors"]
 move=random.choice(items)
-#print(move)
+print(move)
 
 
 player=input("Enter Your choice:").lower()
